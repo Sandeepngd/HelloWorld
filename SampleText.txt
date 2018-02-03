@@ -1,1 +1,2 @@
-My first line here
+My first line here - This will have conflicts
+Edits done on new branch - New line
